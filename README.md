@@ -1,5 +1,5 @@
 # super-duper-octo-meme
-A set of all assignments in cse142.
+A set of all assignments in CSE142.
 
 This is exactly what it sounds like: git repository to store my University of Washington CSE142 homework solutions.
 
